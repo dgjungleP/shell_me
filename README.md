@@ -2,6 +2,8 @@
 [Hello Word](hello_word.sh)
 ---
 - [ ] [grep类](grep/README.md)   
+- [ ] [awk类](awk/README.md)   
+- [ ] [sed类](sed/README.md)   
 ---
 [字典库](dictionary/README.md)[^1]
 
