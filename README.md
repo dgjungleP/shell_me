@@ -5,7 +5,8 @@
 - [ ] [awk类](awk/README.md)   
 - [ ] [sed类](sed/README.md)   
 ---
-[字典库](dictionary/README.md)[^1]
+[shell的一些基础](shell_dir/README.md)   
+[常用字典库](dictionary/README.md)[^1]
 
  
 
