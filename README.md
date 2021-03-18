@@ -9,6 +9,6 @@
 [常用字典库](dictionary/README.md)\(用于存储一些自己常用和已经使用过的命令\)
 
  ## Plan List
- - [ ] 将jar包转化为linux服务
+ - [x] [将jar包转化为linux服务](demo/makeJarService/jts.sh)
 
 
